@@ -1,0 +1,6 @@
+abcd 
+job-1: (slave-1) (free style)
+integration of git 
+op: /tmp/user-1/builds/ 
+parameters: choice parameters (client, env)
+vars: build number, job name, jenkins url, commit id
